@@ -1,0 +1,21 @@
+<div class="wrapper">
+   <form (ngSubmit)="addReimbursement()">
+    <input type="number" name="amount" [(ngModel)]="newReimbursement.amount" placeholder="Enter amount">
+    <input type="text" name="description" [(ngModel)]="newReimbursement.description" placeholder="Enter description">
+    <select name="type" [(ngModel)]="newReimbursement.type">
+      <option [ngValue]="1">Lodging</option>
+      <option [ngValue]="2">Travel</option>
+      <option [ngValue]="3">Food</option>
+      <option [ngValue]="4">Other</option>
+    </select>
+    <button class="btn btn-primary" type="submit">Submit</button>
+  </form>
+</div>
+  <!--routerLink="/reimbursement"-->
+  <!-- type: {{newReimbursement.type}} -->
+
+
+
+
+
+

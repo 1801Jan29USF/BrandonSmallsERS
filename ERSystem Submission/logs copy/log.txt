@@ -1,0 +1,89 @@
+2018-02-23 11:04:09 TRACE ERSDAOJDBC:56 - method called to get user
+2018-02-23 11:04:09 TRACE ERSDAOJDBC:57 - Attempting to get connection to db
+2018-02-23 11:04:09 WARN  ERSDAOJDBC:72 - failed to retreive user
+2018-02-23 11:07:44 TRACE ERSDAOJDBC:56 - method called to get user
+2018-02-23 11:07:44 TRACE ERSDAOJDBC:57 - Attempting to get connection to db
+2018-02-23 11:07:44 WARN  ERSDAOJDBC:72 - failed to retreive user
+2018-02-23 11:09:15 TRACE ERSDAOJDBC:56 - method called to get user
+2018-02-23 11:09:15 TRACE ERSDAOJDBC:57 - Attempting to get connection to db
+2018-02-23 11:09:15 WARN  ERSDAOJDBC:72 - failed to retreive user
+2018-02-23 11:13:28 TRACE ERSDAOJDBC:56 - method called to get user
+2018-02-23 11:13:28 TRACE ERSDAOJDBC:57 - Attempting to get connection to db
+2018-02-23 11:49:15 TRACE ERSDAOJDBC:58 - method called to get user
+2018-02-23 11:49:15 TRACE ERSDAOJDBC:59 - Attempting to get connection to db
+2018-02-23 11:49:16 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 11:49:16 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 11:49:16 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 11:49:17 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 12:09:24 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 12:09:24 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 12:09:25 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 12:09:25 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 12:14:49 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 12:14:49 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 12:14:49 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 12:14:50 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 12:23:52 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 12:23:52 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 12:23:53 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 12:23:53 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 12:23:57 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 12:23:57 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 12:23:58 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 12:23:58 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 12:25:34 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 12:25:34 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 12:25:35 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 12:25:35 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 12:28:51 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 12:28:51 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 12:28:51 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 12:28:52 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 12:32:14 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 12:32:14 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 12:32:14 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 12:32:15 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 12:51:55 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 12:51:55 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 12:51:56 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 12:51:56 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 13:13:45 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 13:13:45 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 13:13:46 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 13:13:47 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 16:37:21 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 16:37:21 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 16:37:22 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 16:37:23 WARN  ERSDAOJDBC:50 - failed to insert new reimbursement
+2018-02-23 20:29:06 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 20:29:06 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 20:29:07 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 20:29:08 WARN  ERSDAOJDBC:51 - failed to insert new reimbursement
+2018-02-23 20:47:27 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 20:47:27 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 20:47:29 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 20:47:29 WARN  ERSDAOJDBC:51 - failed to insert new reimbursement
+2018-02-23 20:47:33 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 20:47:33 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 20:47:34 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 20:47:35 WARN  ERSDAOJDBC:51 - failed to insert new reimbursement
+2018-02-23 20:49:23 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 20:49:23 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 20:49:24 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 20:49:24 WARN  ERSDAOJDBC:51 - failed to insert new reimbursement
+2018-02-23 21:02:53 TRACE ERSDAOJDBC:31 - method called to submit Reimbursement
+2018-02-23 21:02:53 TRACE ERSDAOJDBC:32 - Attempting to get connection to db
+2018-02-23 21:02:54 TRACE ERSDAOJDBC:35 - connection established with db, creating prepared statement
+2018-02-23 21:02:55 WARN  ERSDAOJDBC:51 - failed to insert new reimbursement
+2018-02-23 21:43:55 TRACE ERSDAOJDBC:32 - method called to submit Reimbursement
+2018-02-23 21:43:55 TRACE ERSDAOJDBC:33 - Attempting to get connection to db
+2018-02-23 21:43:57 TRACE ERSDAOJDBC:41 - connection established with db, creating prepared statement
+2018-02-23 21:43:57 WARN  ERSDAOJDBC:60 - failed to insert new reimbursement
+2018-02-23 21:44:49 TRACE ERSDAOJDBC:32 - method called to submit Reimbursement
+2018-02-23 21:44:49 TRACE ERSDAOJDBC:33 - Attempting to get connection to db
+2018-02-23 21:44:50 TRACE ERSDAOJDBC:41 - connection established with db, creating prepared statement
+2018-02-23 21:44:50 WARN  ERSDAOJDBC:60 - failed to insert new reimbursement
+2018-02-23 21:45:37 TRACE ERSDAOJDBC:32 - method called to submit Reimbursement
+2018-02-23 21:45:37 TRACE ERSDAOJDBC:33 - Attempting to get connection to db
+2018-02-23 21:45:38 TRACE ERSDAOJDBC:41 - connection established with db, creating prepared statement
+2018-02-23 21:45:39 DEBUG ERSDAOJDBC:52 - a query inserted 1row(s) into the db

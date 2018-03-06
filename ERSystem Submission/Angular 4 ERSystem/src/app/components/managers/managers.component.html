@@ -1,0 +1,53 @@
+<button class="btn btn-lg btn-success btn-block btn-signin" type="submit" routerLink="/add-reimbursements">Add Reimbursements</button>
+
+<div class="wrapper">
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <!-- <th scope="col">ID</th> -->
+      <th scope="col">Amount</th>
+      <th scope="col">Submitted</th>
+      <th scope="col">Resolved</th>
+      <th scope="col">Description</th>
+      <th scope="col">Author</th>
+      <th scope="col">Resolver</th>
+      <th scope="col">Status</th>
+      <th scope="col">Type</th>
+      <!-- <th scope="col">Approve</th>
+      <th scope="col">Deny</th> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let reimbursement of reimbursements">
+      <!-- <th scope="row">{{reimbursement.id}}</th> -->
+      <td>{{reimbursement.amount | currency:'USD':'symbol':'1.2-2'}}</td> 
+      <td>{{reimbursement.submitted | date:'fullDate'}}</td>
+      <td>{{reimbursement.resolved | date:'fullDate'}}</td>
+      <td>{{reimbursement.description}}</td>
+      <td>{{reimbursement.author}}</td>
+      <td>{{reimbursement.resolver}}</td>
+      <td *ngIf="reimbursement.status==1">Pending</td>
+      <td *ngIf="reimbursement.status==2">Approved</td>
+      <td *ngIf="reimbursement.status==3">Denied</td>
+      <td *ngIf="reimbursement.type==1">Lodging</td>
+      <td *ngIf="reimbursement.type==2">Travel</td>
+      <td *ngIf="reimbursement.type==3">Food</td>
+      <td *ngIf="reimbursement.type==4">Other</td>
+      <td><button class="btn btn-primary" type="submit" (click)=updateStatus(2,reimbursement.id)>Approve</button></td>
+      <td><button class="btn btn-primary" type="submit" (click)=updateStatus(3,reimbursement.id)>Deny</button></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- <form id="filter">
+  <label>Filter Reimbursements by Status:</label>
+  <input type="text" [(ngModel)]="status" />
+</form> -->
+
+<!-- <select name="status" [(ngModel)]="statusFilter">
+    <option [ngValue]="1">Pending</option>
+    <option [ngValue]="2">Approved</option>
+    <option [ngValue]="3">Denied</option>
+</select>
+<button class="btn btn-primary" type="submit">Submit</button> -->
